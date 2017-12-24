@@ -1,2 +1,2 @@
 # lmt-blog
-personal blog
+悲情黑客的博客
