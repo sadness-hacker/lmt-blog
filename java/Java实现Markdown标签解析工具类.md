@@ -1,9 +1,7 @@
 
 # Java实现Markdown标签解析工具类
 
-
-
-> 利用Java实现将markdown格式内容解析为html内容，利用Atlassian的CommonMark解析器实现。
+> 利用Java实现将markdown格式内容解析为html内容，基于Atlassian的CommonMark解析器实现。
 
 > CommonMark源码: [https://github.com/akfish/CommonMark](https://github.com/akfish/CommonMark "CommonMark源码地址") 
 
